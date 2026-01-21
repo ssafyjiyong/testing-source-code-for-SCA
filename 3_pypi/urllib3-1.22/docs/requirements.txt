@@ -3,3 +3,4 @@ ndg-httpsclient
 sphinx
 alabaster
 requests>=2.0,<2.16
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
